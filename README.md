@@ -18,4 +18,4 @@ docker run -p 5173:5173 --name contenedor_trading_bot imagen_trading_bot
 ```
 
 ## 4. Acceder al proyecto desde el navegador web
-Una vez se esté ejecutando el contenedor, podrás acceder al proyecto a través del nevegador web en la ruta http://localhost:5000/
+Una vez se esté ejecutando el contenedor, podrás acceder al proyecto a través del nevegador web en la ruta http://localhost:5173/
